@@ -1,113 +1,46 @@
 ---
-title: Creative Cloud Developer Platform
-description: Build plugins for Photoshop, InDesign, After Effects, Adobe XD and more. Integrate service APIs like Creative Cloud Libraries, Adobe Fonts and Adobe Stock.
+title: Creative Cloud - Fonts APIs
+description: Adobe Fonts APIs
 ---
 
-import CCProductCards from 'dev-site-product-index/src/transclusions/creative-cloud.md'
-
-<Hero slots="image, heading, icon, text" variant="halfwidth" />
+<Hero slots="image, heading, text, buttons" variant="halfwidth" />
 
 ![Creative Cloud banner](images/cc-hero.png)
 
-# Develop with Adobe Creative Cloud
+# Integrate Unlimited Fonts
 
-![Creative Cloud banner](images/cc-icon.png)
+Build the Adobe Fonts Library into your application experience with our platform. <br /><br /> Please note we are not currently accepting new integrations while we plan updates to our documentation. Existing third-party integrations can reference existing [documentation](https://www.adobe.io/apis/creativecloud/adobe-fonts/docs.html) or [email us](mailto:fontintegrations@adobe.com) with questions.
 
-Adobe Creative Cloud APIs and SDKs enable developers to impact creative work for millions of users worldwide. Build and distribute inspiring, productivity-driving plugins and integrations—all with Adobe Creative Cloud.
+- [Read the Docs](https://www.adobe.io/apis/creativecloud/adobe-fonts/docs.html)
+- [Email Us](mailto:fontintegrations@adobe.com)
 
-<AnnouncementBlock slots="heading, text, button" />
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-### Join the Creative Cloud Developer Newsletter
+![Fonts old graphic 1](images/fonts01.png)
 
-Be the first to hear about API launches, technology updates, marketplace news, developer events, and more by joining the Creative Cloud Developer Newsletter.
+### Browse Fonts
 
-[Sign up today](http://adobe.ly/devnews)
+Yup, there’s a lot of ’em. Maybe you’d like to give your customers the option to browse our library, or even a custom selection of fonts. Build the font menu of your dreams with our APIs.
 
-<TextBlock slots="image, heading, text1, links" />
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![Blurb for Photoshop, Arranger for Adobe XD](images/cc-extend-3.png)
+![Fonts old graphic 2](images/fonts02.png)
 
-## Extend Adobe Creative Cloud apps
+### Publish Kits
 
-Creative Cloud desktop apps offer APIs and SDKs that let you build connected workflows and enhance creative output. Write plugins and scripts that are easy to discover, install, and update. Give teams and individuals the power to tailor industry-leading creative apps to their unique creative needs and collaborative processes. [Browse the full list.](#api-list)
+Publish great type on the web, by building a kit of specified fonts that will load on specific domains using a simple HTML embed code. With our APIs, you can choose fonts and create kits from within your own application.
 
-- ![Photoshop](images/icons/ps-icon.png) [Photoshop](photoshop)
-- ![Adobe XD](images/icons/xd-icon.png) [Adobe XD](xd)
-- ![InDesign](images/icons/id-icon.png) [InDesign](https://www.adobe.io/apis/creativecloud/indesign.html)
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-<TextBlock slots="heading, text1, links, image" />
+![Fonts old graphic 3](images/fonts03.png)
 
-## Integrate Creative Cloud services into your apps
+### Resolve Missing Fonts
 
-With Creative Cloud service APIs, developers can create integrations that enable users to access their content and tools everywhere they work. Bring powerful collaborative features and rich creative assets from Adobe right into your own apps and services by integrating with Creative Cloud. [Browse the full list.](#api-list)
-
-- [Creative Cloud Libraries](libraries)
-- [Adobe Stock](https://www.adobe.io/apis/creativecloud/stock.html)
-- [Adobe Fonts](fonts)
-
-![Camera IQ integrates the CC Libraries API](images/cc-integrate.png)
-
-<TextBlock slots="image, heading, text1, links" />
-
-![Creative Cloud Desktop Marketplace](images/cc-desktop-marketplace-1.png)
-
-## Distribute to millions of creative users worldwide
-
-Publish plugins and integrations for teams and individuals to discover and install on the Creative Cloud Plugin Marketplace and the Enterprise Admin Console. Get your work in front of creatives everywhere by distributing with Creative Cloud.
-
-- [Creative Cloud Plugin Marketplace](https://exchange.adobe.com/creativecloud.html?route=discoverIntegrations&workflow=share)
-
-<TitleBlock slots="heading, text" theme="light" />
-
-# The Adobe Fund for Design
-
-Since 2018, the Adobe Fund for Design has provided equity investments and grants to people and companies who want to push boundaries and help shape the future of design and creativity. Fund recipients also receive expert advice, early access to products and technology, go-to-market support, and more.
-
-<ResourceCard slots="link, image, heading, text" width="50%" variant="vertical" />
-
-[Adobe Fund for Design](https://www.adobe.com/products/xd/adobe-fund.html)
-
-![Adobe Fund for Design 1](images/adobe-fund-for-design-1.jpeg)
-
-### Adobe Fund for Design: Investing in developers with creativity in their code
-
-Apply for equity investments and grants from Adobe for your project.
-
-<ResourceCard slots="link, image, heading, text" width="50%" />
-
-[Supporting Creative Cloud Developers with the Adobe Fund for Design](https://blog.adobe.com/en/publish/2020/06/15/adobe-fund-for-design-creative-cloud-developers.html#gs.iaz41v)
-
-![Adobe Fund for Design 2](images/adobe-fund-for-design-2.jpeg)
-
-### Supporting Creative Cloud Developers with the Adobe Fund for Design
-
-Commissioned projects, and our commitment to developers from underrepresented communities.
-
-<ResourceCard slots="link, image, heading, text" width="50%" />
-
-[One Year of the Adobe Fund for Design: Supporting, Uplifting and Empowering Innovators in the Creative Community](https://blog.adobe.com/en/publish/2019/09/10/fund-for-design-new-design-tools.html#gs.iaz41y)
-
-![Adobe Fund for Design 3](images/adobe-fund-for-design-3.jpeg)
-
-### One Year of the Adobe Fund for Design
-
-Supporting, Uplifting and Empowering Innovators in the Creative Community
-
-<!-- Product cards -->
-<div id="api-list"></div>
-<TitleBlock slots="heading, text" theme="light" />
-
-# Extensible Creative Cloud products and services
-
-Many creative cloud apps and services are extensible through in-app APIs and SDKs, or service APIs and events. Choose your favorite to learn more.
-
-<CCProductCards />
-
-<!-- Summary block -->
+You’ve got a file open, but not all the embedded fonts are there. Now what? Use our API to find missing fonts. We’ll match what we can with fonts from the Adobe Fonts library.
 
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(246, 16, 27)" />
 
-![Creative Cloud banner](images/cc-banner.png)
+![CC banner](images/cc-banner.png)
 
 ## Get the latest news for Creative Cloud Developers
 

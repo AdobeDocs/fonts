@@ -1,11 +1,11 @@
 {
   "private": true,
-  "name": "gatsby-theme-parliament-platform",
-  "version": "0.0.3",
+  "name": "fonts-developer-documentation",
+  "version": "0.0.1",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AdobeDocs/gatsby-theme-parliament-platform"
+    "url": "https://github.com/AdobeDocs/fonts"
   },
   "author": {
     "name": "Stephan Ringel",
