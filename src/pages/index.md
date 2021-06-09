@@ -5,7 +5,7 @@ description: Adobe Fonts APIs
 
 <Hero slots="image, heading, text, buttons" variant="halfwidth" />
 
-![Creative Cloud banner](images/cc-hero.png)
+![Creative Cloud banner](https://adobe.io/shared/images/cc-hero.png)
 
 # Integrate Unlimited Fonts
 
@@ -40,7 +40,7 @@ You’ve got a file open, but not all the embedded fonts are there. Now what? Us
 
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
 
-![CC banner](images/cc-banner.png)
+![CC banner](https://adobe.io/shared/images/cc-banner.png)
 
 ## Get the latest news for Creative Cloud Developers
 
