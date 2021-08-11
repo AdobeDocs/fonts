@@ -1,4 +1,7 @@
 ---
+keywords:
+  - Creative Cloud
+  - API Documentation
 title: Creative Cloud - Fonts APIs
 description: Adobe Fonts APIs
 ---
