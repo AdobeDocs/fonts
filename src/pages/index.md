@@ -12,7 +12,7 @@ description: Adobe Fonts APIs
 
 # Integrate Unlimited Fonts
 
-Build the Adobe Fonts Library into your application experience with our platform. <br /><br /> Please note we are not currently accepting new integrations while we plan updates to our documentation. Existing third-party integrations can reference existing [documentation](https://www.adobe.io/apis/creativecloud/adobe-fonts/docs.html) or [email us](mailto:fontintegrations@adobe.com) with questions.
+Build the Adobe Fonts Library into your application experience with our platform. <br /><br /> Please note we are not currently accepting new integrations while we plan updates to our documentation. Existing third-party integrations can reference existing [documentation](https://github.com/typekit/fonts-api-docs/blob/master/guides.md) or [email us](mailto:fontintegrations@adobe.com) with questions.
 
 - [Email Us](mailto:fontintegrations@adobe.com)
 
