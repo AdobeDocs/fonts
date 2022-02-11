@@ -14,7 +14,6 @@ description: Adobe Fonts APIs
 
 Build the Adobe Fonts Library into your application experience with our platform. <br /><br /> Please note we are not currently accepting new integrations while we plan updates to our documentation. Existing third-party integrations can reference existing [documentation](https://www.adobe.io/apis/creativecloud/adobe-fonts/docs.html) or [email us](mailto:fontintegrations@adobe.com) with questions.
 
-- [Read the Docs](../apis/creativecloud/adobe-fonts/docs.html)
 - [Email Us](mailto:fontintegrations@adobe.com)
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
